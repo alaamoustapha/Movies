@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Movies/static/css/main.3063b25e.css",
+    "main.js": "/Movies/static/js/main.0e5b4505.js",
+    "static/media/ucm_bg_shape.png": "/Movies/static/media/ucm_bg_shape.d4c6e2b9167ca4ee4726.png",
+    "static/media/banner_bg01.jpg": "/Movies/static/media/banner_bg01.9c4b1e1796c6fe9b5765.jpg",
+    "index.html": "/Movies/index.html",
+    "main.3063b25e.css.map": "/Movies/static/css/main.3063b25e.css.map",
+    "main.0e5b4505.js.map": "/Movies/static/js/main.0e5b4505.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3063b25e.css",
+    "static/js/main.0e5b4505.js"
+  ]
+}
