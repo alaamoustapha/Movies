@@ -1,0 +1,17 @@
+.top-title {
+  color: #fff;
+  text-align: left;
+  margin-bottom: 30px;
+  /* -webkit-text-fill-color: #fff;
+  -webkit-text-stroke-color: red;
+  -webkit-text-stroke-width: 1px; */
+}
+.top-title-sub {
+  font-size: 20px;
+  color: #e4d804;
+  margin-bottom: 15px;
+}
+.top-title-title {
+  font-size: 35px;
+}
+/* https://www.omdbapi.com/?s=adventure&apikey=42ef2173 */
